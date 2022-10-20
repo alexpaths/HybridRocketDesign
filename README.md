@@ -7,4 +7,4 @@ Also available here: http://digitalcommons.calpoly.edu/aerosp/22/
 
 Test videos available here: https://youtu.be/Vr44SpLCnCk
 
-Use as you wish. Please include the paper as a reference in your project if publishing.
+Use as you wish. Please include the paper as a reference in your project if publishing. Latex Bib file is included for your convenience.
